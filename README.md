@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently learning AWS ECS, Fargate, CloudFormation, LaTeX, Scala, Type theory
+
 
 <!--
 **bepetersn/bepetersn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
