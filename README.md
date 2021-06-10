@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning AWS ECS & CloudFormation, LaTeX, Scala, Type theory, Algorithm Design & Analysis
+- 🔭 I’m currently learning AWS ECS & CloudFormation, LaTeX, Scala, Type theory, and Algorithm Design & Analysis
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
 
