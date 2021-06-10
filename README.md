@@ -2,7 +2,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently learning AWS ECS, Fargate, CloudFormation, LaTeX, Scala, Type theory
+- 🔭 I’m currently learning AWS ECS, Fargate, CloudFormation, LaTeX, Scala, Type theory, Algorithms Analysis
 
 
 <!--
