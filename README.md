@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning AWS ECS & CloudFormation, LaTeX, Scala, Type theory, and Algorithm Design & Analysis
+- 🔭 I’m currently learning or *re*-learning InfluxDB, GraphQL, Web Sockets, testing with Jest, AWS ECS & Docker, CI/CD, and Vercel. Probably more.
+- 🔭 I’m currently working on a few things. https://saffron-motion.vercel.app/ is a small side project: a tiny personal productivity app that I'm using while I bootstrap it. I'm planning to add integration with Notion and/or Trello, and automatic generation of statistics and visualizations about how I'm working.
+- 📫 How to reach me:
+  - Email: brian.e.peterson@colorado.edu
+  - Phone +1(720)-779-4245 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
 
