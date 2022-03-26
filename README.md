@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning or *re*-learning GraphQL, Service Workers, CI/CD (in Gitlab), Next.js, and Vercel. Probably more things.
-- 🔭 I’m currently working on a few things. https://saffron-motion.vercel.app/ is a small side project: a tiny personal productivity app that I'm using while I bootstrap it. I'm planning to add integration with Notion and/or Trello, and automatic generation of statistics and visualizations about how I'm working.
+- 🔭 I’m currently learning or *re*-learning GraphQL, CI/CD (in Gitlab), Next.js, and Vercel. Probably more things.
+- 🔭 I’m currently working on a few things. 
+    - I work at a company called Modivcare, a tech-enabled Healthcare Logistics company, on their huge legacy Connect/Circulation project, providing a sort of Uber/Lyft-like service but for Non-Emergency Medical Transporation (NEMT) -- I support the huge legacy Python/Django monolith that powers the API for this serivce (https://www.modivcare.com/offerings/nemt).
+    - https://saffron-motion.vercel.app/ is a small side project: a tiny personal productivity app that I'm using while I bootstrap it. I'm planning to add integration with Notion and/or Trello, and automatic generation of statistics and visualizations about how I'm working.
 - 📫 How to reach me:
   - Email: brian.e.peterson@colorado.edu
   - Phone +1(720)-779-4245 
