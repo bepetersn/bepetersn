@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - ⚡ I'm currently looking for a **NEW** role as a Software Engineer, with a focus on backend and ideally making use of my experience with Python.
-- 🌱 I’m currently learning a lot. 
+- 🌱 I’m currently learning about Github Actions, Copilot's agent mode, RAG, as well as brushing up on my JavaScript / React.
 - 💼 Most recently, I worked at a company called Modivcare, a tech-enabled Healthcare Logistics company, on their Connect/Mobility project, providing a sort of Uber/Lyft-like service but for Non-Emergency Medical Transporation (NEMT) -- I supported the huge legacy Python/Django monolith that powers the API for this serivce (https://www.modivcare.com/offerings/nemt)[Modivcare's NEMT services].
 - 🔭 I’m currently working on ...
-  - https://app.interview-q.com is a small side project: a tiny personal productivity app that I'm using while I bootstrap it. I'm planning to add integration with LeetCode, CodeWars, more, and automatic generation of statistics and visualizations about how I'm pursuing my job search.
+  - https://app.interview-q.com is a small side project: a tiny personal app for interview preparation that I'm using while I bootstrap it. I'm planning to add integration with LeetCode, CodeWars, more, and automatic generation of statistics and visualizations about how I'm pursuing my job search.
 - 📫 How to reach me:
   - Email: bepetersondev@gmail.com
-  - Phone 720-779-4245 
+  - Phone: 720-779-4245 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bepetersn)](https://github.com/anuraghazra/github-readme-stats)
 
